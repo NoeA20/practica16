@@ -15,10 +15,10 @@
         </header>
         <nav id="menu" >
             <ul>
-                <li>Portada</li>
-                <li>Lecciones</li>
-                <li>Libros</li>
-                <li>Multimedia</li>
+                <li><a href="?id=home">Home</a></li>
+                <li><a href="?id=nosotros">Nosotros</a></li>
+                <li><a href="?id=consultas">Consultas</a></li>
+                <li><a href="?id=contacto">Contacto</a></li>
             </ul>
         </nav>
         <section id="seccion" >
@@ -39,10 +39,10 @@
             
         </section>
         <aside id="columna" >
-            <a href="?id=moduloa">Ver Módulo A</a><br />
-            <a href="?id=nosotros">Ver Módulo B</a><br />
-            <a href="?id=moduloc">Ver Módulo C</a><br />
-            <a href="?id=modulod">Ver Módulo D</a>
+            <a href="?id=home">Home</a><br />
+            <a href="?id=nosotros">Nosotros</a><br />
+            <a href="?id=consultas">Consultas</a><br />
+            <a href="?id=contacto">Contacto</a>
         </aside>
         <footer id="pie" >
             Proyecto de Aplicaciones Web 2020 | Derechos Reservados &copy; 2020
